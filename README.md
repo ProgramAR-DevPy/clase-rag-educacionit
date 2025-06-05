@@ -255,9 +255,9 @@ Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
 
 ¿Tienes preguntas? 
 
-- 📧 **Email**: [tu-email@ejemplo.com]
-- 💬 **Discord**: [Tu servidor]
-- 📱 **Twitter**: [@tu_usuario]
+- 📧 **Email**: [alejandro.sosa@codificardev.com.ar]
+- 💬 **Linkedin**: https://www.linkedin.com/in/alejandrososa-encodeyourlife/
+- 📱 **Telegram**: https://t.me/Program_Ar
 
 ---
 
